@@ -1,0 +1,19 @@
+/*
+ * @Author: Joe Jiang 
+ * @Date:   2017-09-13 11:09:36 
+ * @Last Modified by: Joe Jiang (anxiao.jt@alibaba-inc.com)
+ * @Last Modified time: 2017-09-14 16:27:23
+ */
+
+ @charset "utf-8";
+
+ body {
+     margin: 0;
+     padding: 0;
+ }
+
+ #main {
+     width: 100vw;
+     height: 90vh;
+     background: #000;
+ }
